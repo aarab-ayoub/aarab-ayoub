@@ -1,6 +1,9 @@
 ### Hi there , I'm Ayoub Aarab 
 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarab-ayoub&show_icons=true&theme=radical" alt="aarab-ayoub's stats"/>
+
+
 ### Connect with me:
 
 [<img align="left" alt="https://www.linkedin.com/in/ayoub-aarab-ab9bb1224/ | LinkedIn" width="35px" src="https://img.icons8.com/color/48/ffffff/linkedin.png"/>][linkedin]
