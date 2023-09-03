@@ -11,7 +11,7 @@
 [<img align="left" alt="ayoubaarab570@gmail.com | Email" width="35px" src="https://img.icons8.com/fluency/48/ffffff/new-post.png" />][Gmail]
 [<img align="left" alt="ayoubaarab571 | HackerRank" width="35px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" />][HackerRank]
 
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarab-ayoub&layout=compact&theme=radical" alt="aaarab's most used langs"/></div>
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarab-ayoub&layout=compact&theme=radical" alt="aaarab's most used langs"/></div>
 
 
 [instagram]: https://www.instagram.com/ayuuub.ab
