@@ -1,8 +1,5 @@
 ### Hi there , I'm Ayoub Aarab 
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarab-ayoub&show_icons=true&theme=radical" alt="aarab-ayoub's stats"/>
-
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarab-ayoub&layout=compact&theme=radical" alt="aaarab's most used langs"/></div>
 
 ### Connect with me:
