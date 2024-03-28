@@ -10,7 +10,7 @@
 [<img align="left" alt="ayoubaarab571 | HackerRank" width="35px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" />][HackerRank]
 
 
-[instagram]: https://www.instagram.com/ayuuub.ab
+*/[instagram]: https://www.instagram.com/ayuuub.ab*/
 [linkedin]: https://www.linkedin.com/in/ayoub-aarab-ab9bb1224/
 [HackerRank]: https://www.hackerrank.com/ayoubaarab571
 [Gmail]: ayoubaarab570@gmail.com
