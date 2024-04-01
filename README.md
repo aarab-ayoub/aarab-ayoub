@@ -1,11 +1,9 @@
 ### Hi there , I'm Ayoub Aarab 
- <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarab-ayoub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" 
-    alt="languages graph"  />
- < a href="https://github.com/aarab-ayoub">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarab-ayoub&theme=dark">
-  </a>
-</p>
+ <div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarab-ayoub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarab-ayoub&theme=dark" height="150" alt="languages graph" />
+</div>
+
 ###### Connect with me:
 
 [<img align="left" alt="https://www.linkedin.com/in/ayoub-aarab-ab9bb1224/ | LinkedIn" width="35px" src="https://img.icons8.com/color/48/ffffff/linkedin.png"/>][linkedin]
