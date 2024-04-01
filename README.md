@@ -1,8 +1,7 @@
 ### Hi there , I'm Ayoub Aarab 
  <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarab-ayoub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarab-ayoub&theme=dark" height="150" alt="languages graph" />
-</div>
+ </div>
 
 ###### Connect with me:
 
