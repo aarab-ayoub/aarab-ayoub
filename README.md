@@ -5,7 +5,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aarab-ayoub&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-
+![](https://komarev.com/ghpvc/?username=aarab-ayoub)
 ###### Connect with me:
 
 [<img align="left" alt="https://www.linkedin.com/in/ayoub-aarab-ab9bb1224/ | LinkedIn" width="35px" src="https://img.icons8.com/color/48/ffffff/linkedin.png"/>][linkedin]
