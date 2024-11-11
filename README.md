@@ -12,9 +12,9 @@
     <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 1.5-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
  </a>
 </p>
-<p align="center">
+<!-- <p align="center">
  <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ayaarab" alt="ayaarab's 42 stats" />
-</p>
+</p> -->
 
 ![](https://komarev.com/ghpvc/?username=aarab-ayoub)
 ###### Connect with me:
