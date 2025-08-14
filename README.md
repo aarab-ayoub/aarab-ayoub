@@ -1,44 +1,29 @@
-### Hi there , I'm Ayoub Aarab
+### Hi there, I'm Ayoub Aarab
 
- <p align="center">
- <a href="https://github.com/kodpe">
-  <img width="100" src="https://github.com/kodpe/kodpe/blob/main/img/walk.gif" />
- </a>
-</p>
-<!--
- -
--->
 <p align="center">
- <a href="https://profile.intra.42.fr/users/ayaarab">
-    <img alt="42intra" src="https://img.shields.io/badge/cursus-lvl 4.18-white?style=for-the-badge&logo=42&labelColor=000000&Color=FFFFFF&logoWidth=20" />
- </a>
- <div align="center">
+  <a href="https://github.com/kodpe">
+    <img width="100" src="https://github.com/kodpe/kodpe/blob/main/img/walk.gif" />
+  </a>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=aarab-ayoub&theme=nightowl&show_icons=true&hide_border=true&count_private=true" height="150" alt="stats graph"  />
- </div>
- <div align="center">
-    <img src="https://streak-stats.demolab.com?user=aarab-ayoub&theme=tokyonight-duo&border_radius=4.9&short_numbers=true" height="150" alt="GitHub Streak" />
+<p align="center">
+  <img alt="1337 cursus" src="https://img.shields.io/badge/1337%20cursus-lvl%204.18-FFD700?style=for-the-badge&logo=42&labelColor=1a1a1a&logoWidth=20" />
+  <img alt="Status" src="https://img.shields.io/badge/master's%20student-data%20science-FF6B47?style=for-the-badge&labelColor=1a1a1a" />
+</p>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aarab-ayoub&theme=dark&show_icons=true&hide_border=true&count_private=true&title_color=FFD700&icon_color=FF6B47&text_color=ffffff&bg_color=1a1a1a" height="170" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarab-ayoub&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=1a1a1a" height="170" alt="languages" />
 </div>
 
-###
+---
 
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarab-ayoub&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=aarab-ayoub&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /> -->
+**currently:** `learning and growing` 📚
 
-###
+**focus:** `c/c++` `python` `data science` `always curious`
 
-</p>
-<!-- <p align="center">
- <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/ayaarab" alt="ayaarab's 42 stats" />
-</p> -->
+**connect:** [linkedin](https://www.linkedin.com/in/ayoub-aarab-ab9bb1224/) • [email](mailto:ayoubaarab570@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=aarab-ayoub)
+<br>
 
-###### Connect with me:
-
-[<img align="left" alt="https://www.linkedin.com/in/ayoub-aarab-ab9bb1224/ | LinkedIn" width="35px" src="https://img.icons8.com/color/48/ffffff/linkedin.png"/>][linkedin]
-[<img align="left" alt="ayoubaarab570@gmail.com | Email" width="35px" src="https://img.icons8.com/fluency/48/ffffff/new-post.png" />][Gmail]
-
-[linkedin]: https://www.linkedin.com/in/ayoub-aarab-ab9bb1224/
-[HackerRank]: https://www.hackerrank.com/ayoubaarab571
-[Gmail]: ayoubaarab570@gmail.com
+<img src="https://komarev.com/ghpvc/?username=aarab-ayoub&color=FF6B47&style=flat-square" alt="views" />
