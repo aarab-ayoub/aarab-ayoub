@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img alt="1337 cursus" src="https://img.shields.io/badge/1337%20cursus-lvl%204.18-FFD700?style=for-the-badge&logo=42&labelColor=1a1a1a&logoWidth=20" />
+  <img alt="1337 cursus" src="https://img.shields.io/badge/1337%20cursus-lvl%204.36-FFD700?style=for-the-badge&logo=42&labelColor=1a1a1a&logoWidth=20" />
   <img alt="Status" src="https://img.shields.io/badge/master's%20student-data%20science-FF6B47?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
