@@ -15,9 +15,9 @@
 
 <div align="center">
 
-<a href="https://git.io/awesome-stats-card"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/aarab-ayoub?cardType=level&theme=gruvbox&preferLogin=false" height="163" /></a>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarab-ayoub&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=1a1a1a" height="170" />
-
+<img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=aarab-ayoub&theme=%7B%22backgroundColor%22%3A%22%2316140e%22%2C%22textColor%22%3A%22%23ffffff%22%2C%22accentColor%22%3A%22%23cbcb25%22%2C%22borderColor%22%3A%22%23000000%22%2C%22waterColor%22%3A%22%2300d4aa%22%2C%22streakColor%22%3A%22%23de9c0d%22%7D" height="170" />
+<a href="https://git.io/awesome-stats-card"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/aarab-ayoub?cardType=level&theme=gruvbox&preferLogin=false" height="170" /></a>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarab-ayoub&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=1a1a1a" height="170" /> -->
 <!-- Awesome GitHub Stats 
 <a href="https://git.io/awesome-stats-card">
   <img 
