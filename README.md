@@ -1,4 +1,4 @@
-### Hi there, I'm Ayoub Aarab
+### wech
 
 <p align="center">
   <a href="https://github.com/kodpe">
@@ -11,9 +11,34 @@
   <img alt="Status" src="https://img.shields.io/badge/master's%20student-data%20science-FF6B47?style=for-the-badge&labelColor=1a1a1a" />
 </p>
 
+---
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarab-ayoub&theme=dark&show_icons=true&hide_border=true&count_private=true&title_color=FFD700&icon_color=FF6B47&text_color=ffffff&bg_color=1a1a1a" height="170" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarab-ayoub&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=1a1a1a" height="170" alt="languages" />
+
+<a href="https://git.io/awesome-stats-card"><img src="https://awesome-github-stats.azurewebsites.net/user-stats/aarab-ayoub?cardType=level&theme=gruvbox&preferLogin=false" height="163" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=aarab-ayoub&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=1a1a1a" height="170" />
+
+<!-- Awesome GitHub Stats 
+<a href="https://git.io/awesome-stats-card">
+  <img 
+    src="https://awesome-github-stats.azurewebsites.net/user-stats/aarab-ayoub?cardType=level&theme=gruvbox&preferLogin=false" 
+    height="170" 
+    alt="Awesome GitHub Stats" 
+  />
+</a>
+
+<!-- <img 
+  src="https://github-readme-stats.vercel.app/api?username=aarab-ayoub&theme=dark&show_icons=true&hide_border=true&count_private=true&title_color=FFD700&icon_color=FF6B47&text_color=ffffff&bg_color=1a1a1a" 
+  height="170" 
+  alt="stats" 
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=aarab-ayoub&layout=compact&card_width=300&langs_count=5&theme=dark&hide_border=true&title_color=FFD700&text_color=ffffff&bg_color=1a1a1a" 
+  height="170" 
+  alt="languages" 
+/> -->
+
 </div>
 
 ---
