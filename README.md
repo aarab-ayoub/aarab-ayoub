@@ -1,7 +1,7 @@
 ### wech
 
 <p align="center">
-  <a href="https://github.com/kodpe">
+  <a href="https://github.com/aarab-ayoub">
     <img width="100" src="https://github.com/kodpe/kodpe/blob/main/img/walk.gif" />
   </a>
 </p>
