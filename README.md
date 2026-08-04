@@ -47,7 +47,7 @@
 
 **focus:** `c/c++` `python` `data engineer/science` `always curious`
 
-**connect:** [linkedin](https://www.linkedin.com/in/ayoub-aarab-ab9bb1224/) • [email](mailto:ayoubaarab570@gmail.com)
+**connect:** [linkedin](https://www.linkedin.com/in/ayaarab1/) • [email](mailto:ayoubaarab570@gmail.com)
 
 <br>
 
